@@ -5,4 +5,4 @@ def fact(n):
     return (n*fact(n-1))
 n=int(input("Enter n value")) 
 x=fact (n)
-print(x)
+print(x
